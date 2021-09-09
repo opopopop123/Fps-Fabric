@@ -1,10 +1,10 @@
 # Fps-Fabric
 Fps boost mods for Fabric
 Mods : 
-1
-2
-3
-4
+1- Sodium
+2- lithium
+3- Phosphor
+4-
 5
 6
 7
